@@ -27,20 +27,20 @@ The script output structure is:
 
 Function Name (First Function):
 
-   Function ID :
-   ASM FIle Starting Address:
-   ASM File Ending Address:
-   Binary File Starting Address:
-   Binary File Ending Address: 
-   Caller Functions:
+   Function ID
+   ASM FIle Starting Address
+   ASM File Ending Address
+   Binary File Starting Address
+   Binary File Ending Address
+   Caller Functions
 
-   Basic Block:
+   Basic Block
    BB_ID
-   ASM FIle Starting Address:
-   ASM File Ending Address:
-   Binary File Starting Address:
-   Binary File Ending Address:
-   Basic Block Successors: 
+   ASM FIle Starting Address
+   ASM File Ending Address
+   Binary File Starting Address
+   Binary File Ending Address
+   Basic Block Successors 
    . 
    . 
    .
@@ -51,7 +51,6 @@ Function Name (First Function):
 
 
 Function Name: (Next Function)
-
 .
 .
 .
