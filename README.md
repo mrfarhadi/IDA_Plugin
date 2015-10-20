@@ -27,27 +27,25 @@ The script output structure is:
 
 Function Name (First Function):
 
-   Function ID
-   ASM FIle Starting Address
-   ASM File Ending Address
-   Binary File Starting Address
-   Binary File Ending Address
-   Caller Functions
+Function ID
+ASM FIle Starting Address
+ASM File Ending Address
+Binary File Starting Address
+Binary File Ending Address
+Caller Functions
 
-   Basic Block
-   BB_ID
-   ASM FIle Starting Address
-   ASM File Ending Address
-   Binary File Starting Address
-   Binary File Ending Address
-   Basic Block Successors 
+Basic Block
+BB_ID
+ASM FIle Starting Address
+ASM File Ending Address
+Binary File Starting Address
+Binary File Ending Address
+Basic Block Successors 
    . 
    . 
    .
-   (ALL BASIC BLOCKS)
-
-   CFG Adjacency Matrix
-
+(ALL BASIC BLOCKS)
+CFG Adjacency Matrix
 
 
 Function Name: (Next Function)
